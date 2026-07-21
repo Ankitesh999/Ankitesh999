@@ -1,37 +1,182 @@
-<h1 align="center">Hi !!, I'm Ankitesh Tiwari</h1>
-<h3 align="center">AI/ML Engineer focused on building practical, production-ready machine learning systems. I don’t just train models — I design end-to-end pipelines, work with real data, and focus on performance, scalability, and clean implementation.</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/hero-dark.svg">
+    <img alt="Ankitesh Tiwari - Intelligent Systems Engineer" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/hero-light.svg">
+  </picture>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitesh999" alt="ankitesh999" /></a> </p>
+<br>
 
-- I’m currently working on **Research-driven AI Systems & Scalable ML Solutions**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-dark.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-light.svg">
+  </picture>
+</div>
 
-- I’m currently learning **Generative AI, LLMs, Agentic AI Systems, RAG, Scalable Deployment Patterns for AI**
+<br>
 
-- I’m looking to collaborate on **Scalable ML Pipelines, Backend-Integrated AI Systems & MLOps Implementations**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/portrait.png" width="280" alt="Ankitesh Tiwari" style="border-radius: 4px;">
+</div>
 
-- I’m looking for help with **Model versioning, CI/CD for ML, Docker optimization, and cloud-native AI systems.**
+<br>
 
-- All of my projects are available at [ankiteshtiwari.in](ankiteshtiwari.in)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-dark.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-light.svg">
+  </picture>
+</div>
 
-- Ask me about **Python, Exploratory Data Analysis (EDA), Feature Engineering (FE), Machine Learning, Deep Learning**
+<br>
 
-- How to reach me **official.ankitesh@gmail.com**
+## Building Beyond Experiments
 
-- Know about my experiences [ankiteshtiwari.in](ankiteshtiwari.in)
+Most AI ideas never leave notebooks.
 
-- Fun fact **Recently adopted a playful cat, Kiki — unofficial productivity supervisor during long coding sessions.**
+I'm interested in what happens after that — engineering reliable systems, transforming research into products, and shipping intelligent software that solves real-world problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankiteshtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankiteshtiwari" height="30" width="40" /></a>
-<a href="https://kaggle.com/ankiteshtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankiteshtiwari" height="30" width="40" /></a>
-</p>
+My work combines AI research, software engineering, and product thinking to build systems that are designed to be deployed, used, and continuously improved.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitesh999&show_icons=true&locale=en&layout=compact" alt="ankitesh999" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-dark.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-light.svg">
+  </picture>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitesh999&show_icons=true&locale=en" alt="ankitesh999" /></p>
+<br>
 
+## Current Focus
 
+- Building autonomous AI systems
+- Engineering production-ready AI infrastructure
+- Conducting AI & Machine Learning research
+- Turning ideas into products that people use
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-dark.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-light.svg">
+  </picture>
+</div>
+
+<br>
+
+## Engineering Stack
+
+**Artificial Intelligence**
+
+Python · PyTorch · TensorFlow · OpenAI · Transformers · LangChain
+
+**Backend**
+
+FastAPI · PostgreSQL · Redis · Docker · SQLAlchemy
+
+**Infrastructure**
+
+AWS · Supabase · Firebase · GitHub Actions
+
+**Frontend**
+
+Next.js · React · TypeScript · TailwindCSS
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-dark.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-light.svg">
+  </picture>
+</div>
+
+<br>
+
+## Research Interests
+
+- Autonomous AI Systems
+- Agentic AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- AI Infrastructure
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-dark.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-light.svg">
+  </picture>
+</div>
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitesh&show_icons=false&hide_title=true&hide_border=true&theme=transparent&text_color=656d76&bg_color=ffffff&ring=0d1117&line=0d1117" alt="GitHub Stats" width="480">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitesh&theme=github-compact&hide_border=true&area=true&custom_title=" alt="Contribution Graph" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-dark.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-light.svg">
+  </picture>
+</div>
+
+<br>
+
+## Beyond the Repositories
+
+Repositories show what I've built.
+
+My LinkedIn tells the story behind them — research, publications, products, freelance work, milestones, and everything that shaped the journey.
+
+Take a look. You might find something interesting.
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/ankitesh" target="_blank">
+    <img src="https://img.shields.io/badge/View_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-dark.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/section-divider-light.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+
+**Research. Engineer. Build. Ship. Repeat.**
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankitesh/ankitesh/main/assets/monogram.svg" width="32" alt="AT Monogram" opacity="0.5">
+</div>

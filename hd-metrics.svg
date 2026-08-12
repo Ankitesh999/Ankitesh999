@@ -4,6 +4,6 @@
 .e-f{fill:#6e7681}.u-s{stroke:#d8dee4;stroke-width:1}
 @media(prefers-color-scheme:dark){.e-f{fill:#c9d1d9}.u-s{stroke:#30363d}}
 </style>
-<text x="0" y="18" class="e-f" font-size="16" font-weight="600">about</text>
-<line x1="66" y1="12.5" x2="620" y2="12.5" class="u-s" stroke-width="1"/>
+<text x="0" y="18" class="e-f" font-size="16" font-weight="600">metrics</text>
+<line x1="85" y1="12.5" x2="620" y2="12.5" class="u-s" stroke-width="1"/>
 </svg>

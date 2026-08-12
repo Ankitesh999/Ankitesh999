@@ -39,7 +39,7 @@ I engineer intelligent systems across <strong>GenAI, Agentic Architectures, Fron
 
 <br/>
 
-<img src="hd-research.svg" width="100%" alt="research &amp; publications" />
+<img src="hd-research-%26-publications.svg" width="100%" alt="research &amp; publications" />
 
 <blockquote>
   <strong>Federated MobileNetV2 with ensemble meta-learning for privacy-preserving brain tumor classification</strong><br/>
@@ -54,7 +54,7 @@ I engineer intelligent systems across <strong>GenAI, Agentic Architectures, Fron
 
 <br/>
 
-<img src="hd-stats.svg" width="100%" alt="github activity &amp; stats" />
+<img src="hd-github-activity-%26-stats.svg" width="100%" alt="github activity &amp; stats" />
 
 <p align="center">
   <img src="stats.svg" alt="GitHub Stats" width="49%" />
